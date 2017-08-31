@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/about_us"
+        android:icon="@android:drawable/alert_dark_frame"
+        android:title="About us" />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@android:drawable/alert_dark_frame"
+        android:title="Share" />
+
+    <item
+        android:id="@+id/rate_us"
+        android:icon="@android:drawable/alert_dark_frame"
+        android:title="Rate us" />
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Search My Masjid</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="current_location">Current location</string>
+    <string name="distance_value">(%.2f km)</string>
+    <string name="main_activity_title">Masjids around you</string>
+    <string name="no_timing_available">No timing available</string>
+    <string name="search_location">Search location</string>
+    <string name="not_available">n/a</string>
+</resources>
